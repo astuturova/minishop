@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+backup.sql
+.env
+.DS_Store
