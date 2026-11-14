@@ -62,6 +62,8 @@ flowchart LR
     Catalog -->|cache| Redis
     Catalog -->|publish| RMQ
     RMQ -->|consume| Consumer
+```
+
 
 
 ### 2.3 Сетевые сегменты
